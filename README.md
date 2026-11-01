@@ -95,19 +95,6 @@ Desarrollo de una experiencia web de verificación de autenticidad para gorras e
 
 ---
 
-## 📊 Actividad de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JManuelCS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58D68D&text_color=C9D1D9&icon_color=58D68D" alt="Estadísticas de Manuel Camarillo"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JManuelCS&layout=compact&hide_border=true&bg_color=0D1117&title_color=58D68D&text_color=C9D1D9" alt="Lenguajes utilizados"/>
-
-</div>
-
----
 
 <div align="center">
 
