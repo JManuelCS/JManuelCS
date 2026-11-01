@@ -115,6 +115,4 @@ Desarrollo de una experiencia web de verificación de autenticidad para gorras e
 
 <br>
 
-![Visitas](https://komarev.com/ghpvc/?username=JManuelCS&color=238B55&style=flat-square&label=Visitas+al+perfil)
-
 </div>
