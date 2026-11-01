@@ -24,7 +24,7 @@ Soy **Manuel Camarillo**, desarrollador enfocado en construir soluciones digital
 
 Me especializo en el desarrollo de aplicaciones web, sistemas comerciales e interfaces modernas, buscando ofrecer experiencias intuitivas, eficientes y visualmente atractivas.
 
-```javascript
+
 const manuel = {
   especialidad: "Desarrollo de Software",
   enfoque: [
