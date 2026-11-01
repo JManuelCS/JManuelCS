@@ -1,118 +1,76 @@
 <div align="center">
 
-# MANUEL CAMARILLO
+# Manuel Camarillo
 
-### SOFTWARE DEVELOPER
-
-**Desarrollo Web · Sistemas POS · Soluciones Digitales**
+**SOFTWARE DEVELOPER**
 
 *Transformando ideas en experiencias digitales modernas, funcionales y eficientes.*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=58D68D&center=true&vCenter=true&width=500&lines=Desarrollo+de+Software;Aplicaciones+Web;Sistemas+de+Punto+de+Venta;Tecnolog%C3%ADa+NFC" alt="Especialidades"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=4ADE80&center=true&vCenter=true&repeat=true&width=500&height=55&lines=Desarrollo+Web;Sistemas+de+Punto+de+Venta;Tecnolog%C3%ADa+NFC;Soluciones+Digitales" alt="Especialidades" />
 
 <br>
 
+
 ![Separador](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:238B55,100:0D1117&height=2)
+
 
 </div>
 
-## 👨‍💻 Sobre mí
-
-Soy **Manuel Camarillo**, desarrollador enfocado en construir soluciones digitales que combinan **diseño, tecnología y funcionalidad**.
-
-Me especializo en el desarrollo de aplicaciones web, sistemas comerciales e interfaces modernas, buscando ofrecer experiencias intuitivas, eficientes y visualmente atractivas.
-
-```javascript
-const manuel = {
-  especialidad: "Desarrollo de Software",
-  enfoque: [
-    "Aplicaciones Web",
-    "Sistemas POS",
-    "Soluciones NFC",
-    "Diseño de Interfaces"
-  ],
-  filosofia: "Código limpio. Diseño inteligente."
-};
-```
-
 ---
 
-## 🚀 Proyectos destacados
+### Sobre mí
+
+Desarrollador enfocado en crear **software funcional, interfaces modernas y experiencias digitales** que conectan tecnología y diseño.
+
+### Proyectos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 CajaGo
+#### CajaGo
+**Sistema de punto de venta**
 
-**Sistema de Punto de Venta**
+Software para la gestión de productos, ventas y operaciones comerciales.
 
-Software diseñado para facilitar la gestión de negocios mediante herramientas de administración comercial.
-
-**Características:**
-- Gestión de productos.
-- Control de ventas.
-- Administración comercial.
-- Interfaz moderna e intuitiva.
-
-**Categoría:** `Software` `POS` `Gestión`
+`POS` `Software` `Gestión`
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 NFC Authenticity
+#### NFC Authenticity
+**Autenticidad digital**
 
-**Sistema Web de Autenticidad**
+Experiencia web de autenticidad para gorras con tecnología NFC integrada.
 
-Desarrollo de una experiencia web de verificación de autenticidad para gorras equipadas con tecnología NFC.
-
-**Características:**
-- Integración web con tecnología NFC.
-- Experiencia digital de autenticidad.
-- Interfaz adaptable a dispositivos móviles.
-- Identidad visual personalizada.
-
-**Categoría:** `NFC` `Web` `Autenticidad`
+`NFC` `Web` `Autenticidad`
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tecnologías y herramientas
+### Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode&theme=dark" alt="Tecnologías"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode&theme=dark" alt="Tecnologías" />
+
+</div>
+
+---
+
+<div align="center">
+
+**MANUEL CAMARILLO**
+
+<sub>Diseño · Código · Innovación</sub>
 
 <br><br>
 
-**Desarrollo Web · Interfaces · Software · Control de Versiones**
+[GitHub](https://github.com/JManuelCS)
 
 </div>
 
----
-
-
-<div align="center">
-
-<br>
-
-</div>
-
----
-
-<div align="center">
-
-### MANUEL CAMARILLO
-
-**Software Development & Digital Experiences**
-
-*Diseño. Código. Innovación.*
-
-<br>
-
-</div>
+[def]: https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:238B55,100:0D1117&height=2
