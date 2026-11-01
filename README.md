@@ -27,31 +27,17 @@
 
 Desarrollador enfocado en crear **software funcional, interfaces modernas y experiencias digitales** que conectan tecnología y diseño.
 
-### Proyectos
+### Proyectos destacados
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### CajaGo
-**Sistema de punto de venta**
-
-Software para la gestión de productos, ventas y operaciones comerciales.
-
-`POS` `Software` `Gestión`
-
-</td>
-<td width="50%" valign="top">
-
-#### NFC Authenticity
-**Autenticidad digital**
-
-Experiencia web de autenticidad para gorras con tecnología NFC integrada.
-
-`NFC` `Web` `Autenticidad`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <img src="./cajagoo.png" width="100%">
+    </td>
+    <td width="50%">
+      <img src="./nfc.png" width="100%">
+    </td>
+  </tr>
 </table>
 
 ### Tecnologías
