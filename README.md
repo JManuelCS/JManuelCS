@@ -6,9 +6,6 @@
 
 <div align="center">
 
-# Manuel Camarillo
-
-**SOFTWARE DEVELOPER**
 
 *Transformando ideas en experiencias digitales modernas, funcionales y eficientes.*
 
