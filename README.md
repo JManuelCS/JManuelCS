@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Manuel Camarillo | Software Developer">
+</div>
+
+<br>
+
+<div align="center">
 
 # Manuel Camarillo
 
