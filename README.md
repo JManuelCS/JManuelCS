@@ -37,6 +37,7 @@ const manuel = {
 };
 ```
 
+---
 
 ## 🚀 Proyectos destacados
 
@@ -95,6 +96,14 @@ Desarrollo de una experiencia web de verificación de autenticidad para gorras e
 
 ---
 
+
+<div align="center">
+
+<br>
+
+</div>
+
+---
 
 <div align="center">
 
